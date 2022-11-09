@@ -1,0 +1,15 @@
+O contexto
+
+O Detran está com dificuldades com a base dos seus sistemas e precisa de ajuda na parte de cadastro. Em um primeiro momento, eles precisam que seja elaborada uma nova base de cadastros para que o sistema volte a funcionar e não percam nenhum dado.
+
+O case
+
+Agora que você já tem o contexto principal nós queremos saber: como você desenvolveria um código para atender as necessidades desse cliente? 
+
+Resposta
+
+-Formulario para cadastro afim de ober os dados importantes
+-Enviar dados para uma nuvem segura (Exemplo: Excel - Google Drive)
+-Usar o google Cloud para criar um arquivo JSON e obter dados sempre atualizados a partir desse link
+-Fazer uma aplicação web basica para consulta e visualização
+-Quando o sistema voltar a funcionar pegar esse arquivo e inserir no sistema
